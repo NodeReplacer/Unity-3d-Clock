@@ -1,3 +1,5 @@
 # Unity-3d-Clock
 
-A 3d clock implemented in Unity. No release exe was created because it would just be floating in space staring at it, but it works if opened in Unity and played from there. 
+A 3D clock implemented in Unity. The beginning of it all involving moving objects and scripting them. Very simple.
+
+The clock should get the time from the computer of the machine using it. If access to the date and time is restricted then the clock will not work.
